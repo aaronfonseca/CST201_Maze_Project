@@ -11,7 +11,7 @@ Include a screenshot of the running program.
 When an error in reading data is detected, your program should alert the user in a helpful manner (think of it as customer service to the user).
 Submit the following:
 
-## By Day 5 of the week assigned: a summary of the main purpose of your project, a detailed description of your implementation approach, and a code skeleton (i.e., class with stubs for all methods)
+By Day 5 of the week assigned: a summary of the main purpose of your project, a detailed description of your implementation approach, and a code skeleton (i.e., class with stubs for all methods)
 
-## By the assignment due date: complete running program, commented code, the input file, and the entire code project as one zipped file. Include a ReadMe file with instruction on how to run it and what software is required.
+By the assignment due date: complete running program, commented code, the input file, and the entire code project as one zipped file. Include a ReadMe file with instruction on how to run it and what software is required.
 This assignment uses a grading rubric. Instructors will be using the rubric to grade the assignment; therefore, students should review the rubric prior to beginning the assignment to become familiar with the assignment criteria and expectations for successful completion of the assignment.
