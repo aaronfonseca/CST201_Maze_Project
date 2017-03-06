@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xxxx/Documents/CLion/maze_project_1/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+stdio.h
+-
+string.h
+-
+
